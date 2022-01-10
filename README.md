@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+- ⚡ Graduated from XJTU with a Bachelor of Engineering in electrical
 - 🚴‍ Master’s degree in reading at XJTU
 - 🔭 I’m currently working on FPGA and ASIC
 - 🌱 I’m currently learning Design Compiler
+- ⛵ [click here to visit my blog][YingXiangLi10.github.io]
 
 <!--
 **YingXiangLi10/YingXiangLi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
